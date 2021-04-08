@@ -19,6 +19,8 @@ with open("calcfile.txt", 'r') as f:
 	elif string == '/':
 		result = a / b
 		print (result)
+	elif string == '^'
+		result = a ^ b
 	else: 
 		print('Invald operator, please try again')
 
